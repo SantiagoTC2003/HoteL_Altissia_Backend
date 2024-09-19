@@ -1,0 +1,5 @@
+C:\Users\admin\source\repos\Solucion_BackEnd_Hotel_Altissia\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Solucion_BackEnd_Hotel_Altissia\Negocio\obj\Debug\netcoreapp3.1\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Solucion_BackEnd_Hotel_Altissia\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Solucion_BackEnd_Hotel_Altissia\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfo.cs
+C:\Users\admin\source\repos\Solucion_BackEnd_Hotel_Altissia\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CoreCompileInputs.cache
